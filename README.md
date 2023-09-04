@@ -93,9 +93,11 @@ OBSERVED DRIVING FACTORS FOR CHARGING OFF-
 
 4) Matplotlib - version 3.7.1
 
+5)Seaborn - version 0.12.2
+
 ## REFERENCES:
 1) [Case Study](https://www.researchgate.net/publication/340395124_Project_Lending_Club_Data_Analysis)
 2) [Lending Club- Resource Centre](https://www.lendingclub.com/resource-center/personal-loan/what-to-do-if-you-are-declined-a-personal-loan)
 
-6) Seaborn - version 0.12.2
+
 
