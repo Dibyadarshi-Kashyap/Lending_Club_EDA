@@ -93,7 +93,7 @@ OBSERVED DRIVING FACTORS FOR CHARGING OFF-
 
 4) Matplotlib - version 3.7.1
 
-5)Seaborn - version 0.12.2
+5) Seaborn - version 0.12.2
 
 ## REFERENCES:
 1) [Case Study](https://www.researchgate.net/publication/340395124_Project_Lending_Club_Data_Analysis)
